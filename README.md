@@ -93,9 +93,9 @@ FAISS, Embedding Models, Semantic Search
 
 💻 GitHub: github.com/Amashriaz1103
 
-📊 LeetCode: [leetcode.com/u/amashriaz1/](https://leetcode.com/u/amashriaz1/)
+📊 LeetCode: [www.leetcode.com/u/amashriaz1/](https://leetcode.com/u/amashriaz1/)
 
-🏆 Codeforces: [codeforces.com/profile/AmashRiaz](https://codeforces.com/profile/AmashRiaz)
+🏆 Codeforces: [www.codeforces.com/profile/AmashRiaz](https://codeforces.com/profile/AmashRiaz)
 
 ---
 
